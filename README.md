@@ -6,7 +6,7 @@
 
 **Функционал:** 
 
-https://www.youtube.com/watch?v=59KtPvueJw8
+https://youtu.be/QGzFtr9aSbY
 
 На сегодняшний момент в приложении «Зверобуквы» реализован следующий функционал.
 
